@@ -1,0 +1,31 @@
+/*  I chose to write my sources in a different way then usual, what you see before you greatly resembles C# (CSharp) syntax. 
+    C# was the first language that I fully learned. So I decided to go back to where it all began. In fact what you are reading 
+    right now is written as a multiline comment in C#. I hope you enjoyed my presentation please take a moment to acknowledge
+    the sources used for this project. Thank you for reading. 
+
+*/     
+
+public class Information()
+{
+    array sources = {
+    "https://www.timetoast.com/timelines/prosthetics-666ede5d-af3a-4025-b60f-e8bf73729e1a",
+    "https://share.upmc.com/2015/03/timeline-prosthetic-limbs-years/",
+    "https://unyq.com/the-history-of-prosthetics/",
+    "https://patents.google.com/patent/US18021A/en"
+    }
+}
+
+
+public class Images()
+}
+
+    array sources = {
+    "https://images2.wikia.nocookie.net/__cb20110727092537/pirates/images/1/1a/OSTBarbossaPegLeg.jpg;",
+    "https://inteng-storage.s3.amazonaws.com/img/iea/XD6KXNnMwv/sizes/prosthetic-limbs-history-egypt_resize_md.jpg;",
+    "https://upload.wikimedia.org/wikipedia/commons/0/05/Roman_artificial_leg_of_bronze._Wellcome_M0012307.jpg;",
+    "http://www.hortonsoandp.com/wp-content/uploads/2017/05/parts-of-a-prosthetic-leg-prosthetic-leg-Arkansas.jpg",
+    "https://i.pinimg.com/originals/60/c6/b6/60c6b692d3ddced830ca6268ffae6320.jpg",
+    "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/11875608/image/c358414d60d521a75b6bad46127b864d"
+    }  
+}
+    
